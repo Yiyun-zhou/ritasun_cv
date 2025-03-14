@@ -3,7 +3,7 @@
 title: Weijia Rita Sun
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Weijia (Rita)
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:s715beanie@gmail.com
+    url: 'mailto:s715beanie@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
     url: 
