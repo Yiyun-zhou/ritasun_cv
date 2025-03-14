@@ -30,5 +30,5 @@ sections:
           url: https://youtube.com
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://uk.linkedin.com/in/rita-weijia-sun-259982205
 ---
