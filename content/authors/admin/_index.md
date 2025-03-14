@@ -44,7 +44,7 @@ profiles:
     label: Download my resume
   
 education:
-  - area: PhD Chemistry
+  - area: PhD Social Science
     institution: 我家
     date_start: ''
     date_end: ''
